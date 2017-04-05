@@ -12,7 +12,7 @@ var React = require('react');
 
 // });
 var WeatherMessage = () => {
-	var {temp,location} = props;
+	var {temp,location} = this.props;
 	return ( 
 		<h2>Current Weather in {location} is {temp}</h2>
 	);
