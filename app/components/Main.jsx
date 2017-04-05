@@ -1,6 +1,6 @@
 var React = require('react');
 var Nav = require('Nav');
-var pageComponent = require('PageComponent');
+var PageComponent = require('PageComponent');
 
 
 
