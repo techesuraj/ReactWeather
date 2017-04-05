@@ -14,7 +14,8 @@
       Example: 'app/components/Example.jsx',
       DisplayWeather:'app/components/DisplayWeather.jsx',
       WeatherMessage:'app/components/WeatherMessage.jsx',
-      openWeatherMap:'app/api/openWeatherMap.jsx'
+      openWeatherMap:'app/api/openWeatherMap.jsx',
+      PageComponent: 'app/components/PageComponent.jsx'
       
     },
     extensions: ['', '.js', '.jsx']
